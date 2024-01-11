@@ -2,7 +2,7 @@
 <hr>
 <strong>Sobre Mim</strong>
 
-👨‍💻 - Meu nome é Victor Rodrigues, sou estudante de Análise e desenvolvimento de sistemas e estou me especializando como Desenvolvedor Front-End, estou constatemente buscando aprimorar minhas habilidades de progamação e Análise, sempre em busca de novos desafios e oportunidades de aprendizado.
+👨‍💻 - Meu nome é Victor Rodrigues, sou estudante de Análise e Desenvolvimento de sistemas e estou me especializando como Desenvolvedor Front-End, estou constatemente buscando aprimorar minhas habilidades de progamação e Análise, sempre em busca de novos desafios e oportunidades de aprendizado.
 
 
 
@@ -20,7 +20,7 @@
 <hr>
 
 
-<strong>Contatos</strong>
+<strong>Contatos 📱</strong>
 
 
 [![contatos](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585998095937)
