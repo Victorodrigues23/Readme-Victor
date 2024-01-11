@@ -2,7 +2,7 @@
 <hr>
 <strong>Sobre Mim</strong>
 
-👨‍💻 - Meu nome é Victor Rodrigues, sou estudante de Análise e Desenvolvimento de sistemas e estou me especializando como Desenvolvedor Front-End, estou constatemente buscando aprimorar minhas habilidades de progamação e Análise, sempre em busca de novos desafios e oportunidades de aprendizado.
+👨‍💻 - Olá, sou Victor Rodrigues ! estudante de Análise e desenvolvimento de sistemas e estou me especializando como Desenvolvedor Front-End, estou constatemente buscando aprimorar minhas habilidades de progamação e Análise, sempre em busca de novos desafios e oportunidades de aprendizado.
 
 
 
